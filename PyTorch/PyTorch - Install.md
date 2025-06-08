@@ -1,4 +1,4 @@
-[Инструкция](https://pytorch.org/get-started/locally/) по установке. Код фреймворка на [GitHub](https://github.com/pytorch/pytorch).
+[Инструкция](https://pytorch.org/get-started/locally/) по установке. Код фреймворка на [GitHub](https://github.com/pytorch/pytorch). 
 
 На Windows 11 может возникнуть ошибка `OSError: [WinError 126] The specified module could not be found. Error loading "fbgemm.dll" or one of its dependencies.`
 
